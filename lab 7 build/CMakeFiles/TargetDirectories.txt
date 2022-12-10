@@ -1,0 +1,3 @@
+C:/Users/eptel/Desktop/cpp/lab 7 build/CMakeFiles/test.dir
+C:/Users/eptel/Desktop/cpp/lab 7 build/CMakeFiles/ALL_BUILD.dir
+C:/Users/eptel/Desktop/cpp/lab 7 build/CMakeFiles/ZERO_CHECK.dir
